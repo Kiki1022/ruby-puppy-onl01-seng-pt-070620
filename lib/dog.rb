@@ -31,7 +31,7 @@ end
 
 def save
  @@all << self
- self.save
+
  
 end
 
